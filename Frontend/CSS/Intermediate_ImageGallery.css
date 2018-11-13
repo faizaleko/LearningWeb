@@ -1,0 +1,15 @@
+h1 {
+    margin-left: 1.66%;
+    width: 30%;
+    font-family: Spicy Rice;
+    text-transform: uppercase;
+    border-bottom: 3px solid rgb(218, 215, 215);
+    padding-bottom: 30px;
+    color: rgb(87, 87, 87);
+}
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
